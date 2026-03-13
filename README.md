@@ -1,5 +1,7 @@
 🔐 Brute Force com Medusa e Kali Linux
 
+
+
 Projeto do Desafio DIO — Simulação de ataques de força bruta em ambiente controlado utilizando Kali Linux, Medusa e ambientes vulneráveis (Metasploitable 2 / DVWA).
 
 Configuração Inicial
